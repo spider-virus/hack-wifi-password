@@ -1,7 +1,7 @@
 ###########################################
 ##-------Copyright of spider virus-------##
 ##=======================================##
-##https://www.youtube.com/c/spidervirus  ##
+## https://www.youtube.com/c/spidervirus  ##
 ###########################################
 
 import subprocess
