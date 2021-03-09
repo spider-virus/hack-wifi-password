@@ -1,3 +1,9 @@
+###########################################
+##-------Copyright of spider virus-------##
+##=======================================##
+##https://www.youtube.com/c/spidervirus  ##
+###########################################
+
 import subprocess
 import re
 command_output = subprocess.run(["netsh", "wlan", "show", "profiles"], capture_output = True).stdout.decode()
