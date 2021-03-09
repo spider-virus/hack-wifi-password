@@ -4,4 +4,4 @@ this script for show all of users profile wifi and passwords in your pc or lapto
 
 با این کد شما میتونید تمام نام و پسورد های وایفای سیو شده در لپتاب یا پی سی ویندوزیتان مشاهده کنید
 
-usage(windows):python wifi password.py
+usage(windows):python wifipassword.py
